@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **pateljp1198@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P2d0brSScWuOD2xseHky2YRXyvZvAqox/view?usp=share_link](https://drive.google.com/file/d/1P2d0brSScWuOD2xseHky2YRXyvZvAqox/view?usp=share_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pateljp1198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pateljp1198" height="30" width="40" /></a>
