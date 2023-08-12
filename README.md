@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeel Patel</h1>
 <h3 align="center">Proficient front-end web Application/UI developer with 4 years 1 months of experience in developing innovative software with a passion for delivering high-quality solutions. Actively worked on application software: development, implementation, and support. Proficient in developing web pages using HTML5, CSS3, LESS, SCSS, JavaScript, DOM Manipulation, Bootstrap, JSON, Typescript and Angular. Seeking to bring my skills and experience in software development to create applications that meet project goals and requirements.</h3>
 
-- 🔭 I’m currently working on **Unemployment Insurance**
+- 🔭 I’m currently working on **Unemployment Insurance Projet for State of Missouri Client**
 
 - 🌱 I’m currently learning **JAVA, Springboot**
 
